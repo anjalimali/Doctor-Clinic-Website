@@ -1,0 +1,21 @@
+.head1{
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.head2{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.service{
+    background-color: rgb(236, 235, 233);
+}
+
+.services{
+    background-color: rgb(236, 235, 233);
+}
+
+.treat{
+    background-color: rgb(3, 33, 83);
+}
