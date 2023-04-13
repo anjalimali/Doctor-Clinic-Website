@@ -19,3 +19,15 @@
 .treat{
     background-color: rgb(3, 33, 83);
 }
+
+@media screen and (max-width:768px) {
+    .head1{
+        font-size: 2rem;
+        margin-bottom: 0;
+    }
+    .head2{
+        
+        font-size: 10px;
+    }
+    
+}
